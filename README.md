@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 Railscast sm-rc399
 ===================
 Autocomplete
-```
-scaffold
-```
-#todo
 ```
 rack-mini-profiler gem
 ```
