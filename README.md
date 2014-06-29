@@ -1,7 +1,7 @@
 Railscast sm-rc399
 ===================
-Autocomplete
-```
+  Autocomplete and its performance
+
 rack-mini-profiler gem
 ```
 to measure performance whenever using autocomplete with large database
