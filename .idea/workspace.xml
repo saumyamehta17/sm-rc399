@@ -59,15 +59,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search_suggestions_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/search_suggestions_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="search_suggestion.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/search_suggestion.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,7 +71,16 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="0.70826304" vertical-offset="0" max-vertical-offset="675">
+            <state line="37" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="0.84822935" vertical-offset="52" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="0" selection-start="891" selection-end="891" vertical-scroll-proportion="-21.92" vertical-offset="52" max-vertical-offset="690">
               <folding />
             </state>
           </provider>
@@ -137,6 +137,7 @@
         <option value="$PROJECT_DIR$/app/controllers/search_suggestions_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/search_suggestion.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -718,9 +719,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="891" selection-end="891" vertical-scroll-proportion="-21.92" vertical-offset="52" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="0.70826304" vertical-offset="0" max-vertical-offset="675">
+        <state line="37" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="0.84822935" vertical-offset="52" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
